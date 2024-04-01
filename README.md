@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**webdeveric/webdeveric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+View my published open source packages:
 
-Here are some ideas to get you started:
+- [NPM](https://www.npmjs.com/~webdeveric)
+  
+  ![webdeveric's NPM package downloads per year](https://img.shields.io/npm-stat/dy/webdeveric?style=flat-square&logo=npm&labelColor=%23EFEFEF&color=%23EFEFEF&cacheSeconds=86400)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/10216825/)
+
+- [Packagist](https://packagist.org/users/webdeveric/packages/)
+
+- [Wordpress.org](https://profiles.wordpress.org/webdeveric/#content-plugins)
